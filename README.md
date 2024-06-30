@@ -1,10 +1,10 @@
 # Aleo-shopping_list
 Програма на Aleo(мові Leo), яка дозволяє керувати списком покупок.
 
+ 
  {
 
- 
-  program shopping_list_kx0d8ki.aleo {
+      program shopping_list_kx0d8ki.aleo {
 
     // Структура для представлення товару
     struct Item {
@@ -67,9 +67,17 @@
             push list item;
         }
         output list as [Item];
+
 }
 
+ 
 
 
 
- }
+/////////////////////////////////////////////////////////
+
+Офіційний сайт https://www.aleo.org/
+Leo: https://leo-lang.org/
+Discord https://discord.gg/aleohq
+Twitter https://twitter.com/AleoHQ
+GitHub https://github.com/AleoHQ
